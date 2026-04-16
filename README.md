@@ -1,3 +1,10 @@
+# AgentFlow AI
+
+A multi-agentic AI system that parses user queries, performs analytics via Firebolt, and auto-generates report emails using Gemini and Gmail API.
+
+🚀 **Live Demo:** [https://agentflow-ai-wsmw.onrender.com](https://agentflow-ai-wsmw.onrender.com)
+
+
 # Multi-Agent AI Workshop
 
 Production-ready multi-agent orchestration demo built with Next.js 14, TypeScript, Tailwind, Gemini API, Firebolt MCP (sandbox), and Gmail (sandbox), plus an interactive workshop at `/workshop`.
