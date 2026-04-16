@@ -1,0 +1,10 @@
+{
+  "installDependencies": true,
+  "startCommand": "npm run dev",
+  "env": {
+    "GEMINI_API_KEY": "",
+    "FIREBOLT_CLIENT_ID": "workshop_sandbox_xyz"
+  }
+}
+
+
